@@ -1,7 +1,5 @@
 # Selenium Test Framework with SpecFlow
 
-[![Build Status](Your Build Status Badge)](Your Build Status URL)
-
 A comprehensive Selenium test framework built in C# with SpecFlow for running multiple tests. The framework supports headless mode, integrates with Jenkins for automated test execution, and utilizes Extent Reports for detailed reporting.
 
 ## Features
