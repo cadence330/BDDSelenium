@@ -23,4 +23,4 @@ A comprehensive Selenium test framework built in C# with SpecFlow for running mu
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/your-username/your-repo.git](https://github.com/cadence330/BDDSelenium.git)https://github.com/cadence330/BDDSelenium.git
+git clone https://github.com/cadence330/BDDSelenium.git
